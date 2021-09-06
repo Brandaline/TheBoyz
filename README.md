@@ -1,11 +1,11 @@
 # TheBoyz
 This is pain and so I intend to continue inflicting it to others.
 ## Mods 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/MineCraft2.zip" download"Trojan_VirUs" >Number 1</a>    
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/MineCraft3.zip" download="Alex.s_Porn" >Number 2</a>        
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Minecraft4.zip" download="Bibleman_Smut" >Number 3</a>           
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Minecraft5.zip" download="Logan.s_Dildo" >Number 4</a>              
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Minecraft6.zip" download="Matt.s_Unreleased_EP">Number 5</a>          
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Alex's%20Porn.zip" download>Number 1</a>    
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Bibleman%20Smut.zip" download>Number 2</a>        
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Logan's%20Dildo.zip" download>Number 3</a>           
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Trojan%20VirUs.zip" download>Number 4</a>              
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Matt's%20Unreleased%20EP.zip" download>Number 5</a>          
 
 Enjoy
 
