@@ -11,7 +11,7 @@ This is pain and so I intend to continue inflicting it to others.
 ## Individual .jar Mods 
 If you can't tell by now I low-key would enjoy to kermit sewage slide.       
                        
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/aether-1.12.2-v1.5.3.2.jar" download>Aether</a>
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/aether-1.12.2-v1.5.3.2.jar" download>Aether</a>      
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/AncientSpellcraft-1.12.2-1.2.1.jar" download>Ancient Spellcraft</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Baubles-1.12-1.5.2.jar" download>Baubles</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar" download>Better Builders Wands</a>  
@@ -26,13 +26,13 @@ If you can't tell by now I low-key would enjoy to kermit sewage slide.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Guide-API-1.12-2.1.8-63.jar" download>Guide API</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Mantle-1.12-1.3.3.55.jar" download>Mantle</a>          
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/MysticalAgriculture-1.12.2-1.7.5.jar" download>Mystical Agriculture</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/NotEnoughItems-1.12.2-2.4.3.245-universal.jar" download>Not Enough Items</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/SanLib-1.12.2-1.6.3.jar" download>San Lib</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/TConstruct-1.12.2-2.13.0.183.jar" download>TConstruct</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Thaumcraft-1.12.2-6.1.BETA26.jar" download>Thaumcraft</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Vampirism-1.12.2-1.6.2.jar" download>Vampirism</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/XaerosWorldMap_1.16.0_Forge_1.12.jar" download>Xaeros World Map</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Xaeros_Minimap_21.15.0.1_Forge_1.12.jar" download>Xaeros Minimap</a> 
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/NotEnoughItems-1.12.2-2.4.3.245-universal.jar" download>Not Enough Items</a>             
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/SanLib-1.12.2-1.6.3.jar" download>San Lib</a>        
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/TConstruct-1.12.2-2.13.0.183.jar" download>TConstruct</a>       
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Thaumcraft-1.12.2-6.1.BETA26.jar" download>Thaumcraft</a>     
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Vampirism-1.12.2-1.6.2.jar" download>Vampirism</a>       
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/XaerosWorldMap_1.16.0_Forge_1.12.jar" download>Xaeros World Map</a>       
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Xaeros_Minimap_21.15.0.1_Forge_1.12.jar" download>Xaeros Minimap</a>        
 
 Enjoy
 
