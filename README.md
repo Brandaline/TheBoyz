@@ -10,7 +10,9 @@ This is pain and so I intend to continue inflicting it to others.
 ### Rougelike Adventures and Dungeons
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%201.zip" download>Part 1</a>              
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%20Two.zip" download>Part 2</a>      
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Mods%201.zip" download>Mods 1</a>       
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Mods%201.zip" download>Mods 1</a>     
+I'm giving up so just go to the [link](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons/files) instead you psycho
+
 
 ## Individual .jar Mods 
 If you can't tell by now I low-key would enjoy to kermit sewage slide.       
