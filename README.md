@@ -9,7 +9,7 @@ This is pain and so I intend to continue inflicting it to others.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Matt's%20Unreleased%20EP.zip" download>Number 5</a>          
 
 ## Individual .jar Mods 
-If you can't tell by now I low-key would enjoy to kermit sewage slide.
+If you can't tell by now I low-key would enjoy to kermit sewage slide.       
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/AncientSpellcraft-1.12.2-1.2.1.jar" download>Ancient Spellcraft</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Baubles-1.12-1.5.2.jar" download>Baubles</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/BetterBuildersWands-1.12.2-0.13.2.271%2B5997513.jar" download>Better Builders Wands</a>  
