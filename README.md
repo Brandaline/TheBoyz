@@ -8,8 +8,9 @@ This is pain and so I intend to continue inflicting it to others.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Trojan%20VirUs.zip" download>Number 4</a>              
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Matt's%20Unreleased%20EP.zip" download>Number 5</a>          
 ### Rougelike Adventures and Dungeons
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%201.zip" download>Part 1</a>        
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%20Two.zip" download>Part 2</a> 
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%201.zip" download>Part 1</a>              
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Part%20Two.zip" download>Part 2</a>      
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Mods%201.zip" download>Mods 1</a>       
 
 ## Individual .jar Mods 
 If you can't tell by now I low-key would enjoy to kermit sewage slide.       
