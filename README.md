@@ -35,9 +35,9 @@ If you can't tell by now I low-key would enjoy to kermit sewage slide.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/metamorph-1.2.9-1.12.2.jar" download>Metamorph</a>      
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/movingworld-1.12-6.353-full.jar" download>Moving World</a>       
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/MysticalAgriculture-1.12.2-1.7.5.jar" download>Mystical Agriculture</a>        
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/NotEnoughItems-1.12.2-2.4.3.245-universal.jar" download>Not Enough Items</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/randomloot-1.12.2-1.7.5.jar" download>Random Loot</a> 
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/SanLib-1.12.2-1.6.3.jar" download>San Lib</a>        
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/NotEnoughItems-1.12.2-2.4.3.245-universal.jar" download>Not Enough Items</a>       
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/randomloot-1.12.2-1.7.5.jar" download>Random Loot</a>         
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/SanLib-1.12.2-1.6.3.jar" download>San Lib</a>                
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/TConstruct-1.12.2-2.13.0.183.jar" download>TConstruct</a>       
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Thaumcraft-1.12.2-6.1.BETA26.jar" download>Thaumcraft</a>     
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Vampirism-1.12.2-1.6.2.jar" download>Vampirism</a>       
