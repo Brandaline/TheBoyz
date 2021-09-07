@@ -19,8 +19,8 @@ If you can't tell by now I low-key would enjoy to kermit sewage slide.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/CodeChickenLib-1.12.2-3.2.3.358-universal.jar" download>Code Chicken Lib</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Cucumber-1.12.2-1.1.3.jar" download>cuCUMber</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/ElectroblobsWizardry-4.3.4-MC1.12.2.jar" download>Electroblobs Wizardry</a>  
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Alex's%20Porn.zip" download>j</a>  
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/Alex's%20Porn.zip" download>j</a>  
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/EmbersRekindled-1.18.jar" download>Embers Rekindled</a>  
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/Guide-API-1.12-2.1.8-63.jar" download>Guide API</a>  
 
 
 Enjoy
