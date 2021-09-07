@@ -20,12 +20,12 @@ If you can't tell by now I low-key would enjoy to kermit sewage slide.
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/ClaySoldiersMod-1.12.2-3.0.0-beta.2.jar" download>Clay Soldiers</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/CodeChickenLib-1.12.2-3.2.3.358-universal.jar" download>Code Chicken Lib</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Cucumber-1.12.2-1.1.3.jar" download>cuCUMber</a>  
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/davincisvessels-1.12-6.340-full.jar" download>Davinci's Vessels</a> 
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/davincisvessels-1.12-6.340-full.jar" download>Davinci's Vessels</a>            
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/ElectroblobsWizardry-4.3.4-MC1.12.2.jar" download>Electroblobs Wizardry</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/EmbersRekindled-1.18.jar" download>Embers Rekindled</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Guide-API-1.12-2.1.8-63.jar" download>Guide API</a>  
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/Mantle-1.12-1.3.3.55.jar" download>Mantle</a>          
-<a href="https://github.com/Brandaline/TheBoyz/raw/main/MysticalAgriculture-1.12.2-1.7.5.jar" download>Mystical Agriculture</a> 
+<a href="https://github.com/Brandaline/TheBoyz/raw/main/MysticalAgriculture-1.12.2-1.7.5.jar" download>Mystical Agriculture</a>        
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/NotEnoughItems-1.12.2-2.4.3.245-universal.jar" download>Not Enough Items</a>             
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/SanLib-1.12.2-1.6.3.jar" download>San Lib</a>        
 <a href="https://github.com/Brandaline/TheBoyz/raw/main/TConstruct-1.12.2-2.13.0.183.jar" download>TConstruct</a>       
